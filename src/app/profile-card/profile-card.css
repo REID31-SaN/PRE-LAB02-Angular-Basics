@@ -1,0 +1,22 @@
+.profile-card {
+  border: 1px solid #0d9488;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  background: #444444;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+}
+
+.profile-card h2 {
+  margin-top: 0;
+  color: #f2e8ec;
+}
+
+.tag {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 20px;
+  background: #f2e8ec;
+  color: #0d9488;
+  font-size: 0.85rem;
+}
