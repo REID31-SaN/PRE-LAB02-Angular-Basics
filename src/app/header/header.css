@@ -1,0 +1,98 @@
+
+/* =========================================
+   HEADER COMPONENT STYLES
+   Name, contact information, and profile.
+========================================= */
+
+/* Header introduction container */
+.intro {
+  text-align: center;
+
+  /* Teal separator */
+  border-bottom: 2px solid #14b8a6;
+
+  padding-bottom: 22px;
+  margin-bottom: 28px;
+}
+
+/* Main CV name */
+.intro h1 {
+  margin-bottom: 8px;
+  color: #14b8a6;
+  font-size: 2.4rem;
+  letter-spacing: 0.5px;
+}
+
+/* Contact information */
+.intro p {
+  color: #b0b0b5;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+/* Email link */
+.intro a {
+  color: #14b8a6;
+  text-decoration: none;
+}
+
+/* Email hover effect */
+.intro a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile responsive heading */
+@media (max-width: 600px) {
+  .intro h1 {
+    font-size: 1.8rem;
+  }
+}
+
+/* =========================================
+   HEADER COMPONENT STYLES
+   Name, contact information, and profile.
+========================================= */
+
+/* Header introduction container */
+.intro {
+  text-align: center;
+
+  /* Teal separator */
+  border-bottom: 2px solid #14b8a6;
+
+  padding-bottom: 22px;
+  margin-bottom: 28px;
+}
+
+/* Main CV name */
+.intro h1 {
+  margin-bottom: 8px;
+  color: #14b8a6;
+  font-size: 2.4rem;
+  letter-spacing: 0.5px;
+}
+
+/* Contact information */
+.intro p {
+  color: #b0b0b5;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+/* Email link */
+.intro a {
+  color: #14b8a6;
+  text-decoration: none;
+}
+
+/* Email hover effect */
+.intro a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile responsive heading */
+@media (max-width: 600px) {
+  .intro h1 {
+    font-size: 1.8rem;
+  }
+}

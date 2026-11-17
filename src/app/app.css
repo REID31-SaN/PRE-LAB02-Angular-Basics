@@ -1,0 +1,33 @@
+
+/* =========================================
+   APP COMPONENT STYLES
+   Controls the main CV layout.
+========================================= */
+
+/* Main resume container */
+.resume {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 32px;
+
+  /* Dark card background */
+  background-color: #1c1c1e;
+
+  /* Rounded corners and shadow */
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.6);
+  border: 1px solid #2d2d31;
+}
+
+/* Angular Interaction message */
+.interaction p {
+  padding: 12px 16px;
+
+  /* Teal accent on the left */
+  border-left: 4px solid #14b8a6;
+
+  /* Dark background matching the CV */
+  background-color: #252529;
+  color: #d1d5db;
+}
+
